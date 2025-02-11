@@ -491,6 +491,12 @@ footer{
         height: 4rem;
      }   
 
+     .social_icon:houver{
+      width: 4rem;
+      height: 4rem;
+      border-color: var(--purple-500);
+        
+     }
 
 
 
