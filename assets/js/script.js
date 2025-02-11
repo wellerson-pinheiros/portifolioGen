@@ -17,7 +17,7 @@ async function getApiGithub() {
 
             <article id="about_texto" class="flex about_content">
                 <h1>Sobre min</h1>
-                <p> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi a nam aperiam, unde sed cumque non doloremque commodi dicta itaque quis labore dolores reprehenderit magnam maiores maxime tempora? Nam, aliquam.</p>
+                <p> Apaixonado por tecnologia e desenvolvimento de soluções criativas, estou em uma jornada contínua para expandir meus conhecimentos e me especializar na área de TI. Atualmente, estudo Análise e Desenvolvimento de Sistemas, com conclusão prevista para 06/2025, e já planejo mergulhar em Ciência da Computação logo em seguida.</p>
 
                 <div id="about_github" >
                     <a href="${perfil.html_url}" 
